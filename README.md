@@ -4,7 +4,9 @@
 
 ## 개발 환경
 
-* OS: Windows 10 (단, 테스트는 AWS EC2 Ubuntu 24.04)​
+* OS
+  * Windows 10: 주요 코드 개발
+  * Ubuntu 24.04​: AWS에서 코드 테스트
 * Language: Python 3.12
 * Tools: Jupyter Lab
 
